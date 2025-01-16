@@ -1,2 +1,2 @@
 # gml.test
-repo fot 
+repo for testing GithubModLoader
