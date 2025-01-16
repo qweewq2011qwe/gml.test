@@ -1,2 +1,3 @@
 memoryleakfix-fabric-1.17+-1.1.5.jar
 modmenu-7.2.2.jar
+lazydfu-0.1.3.jar
